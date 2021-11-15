@@ -7,7 +7,7 @@ class BreweryCardComponent extends Component {
   render() {
     return (
       <article className="card">
-        {/* <BreweryCardHeader /> */}
+        <BreweryCardHeader />
         <div className="card-body">
           <div className="card-title">{this.props.name}</div>
           <BreweryCardBody
