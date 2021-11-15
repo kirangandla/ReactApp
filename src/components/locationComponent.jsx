@@ -5,7 +5,7 @@ import Header from "./header";
 
 
 //Replace this with valis Google api key
-const GOOGLE_API_KEY = 'AIzaSyDGC6e7RITFk1Azq_7DuqWt4scwXooBxQc';
+const GOOGLE_API_KEY = 'AIzaaaSyDGC6e7RITFk1Azq_7DuqWt4scwXooBxQc';
 
 class location extends Component {
   render() {
